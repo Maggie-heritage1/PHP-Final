@@ -1,0 +1,139 @@
+        body
+        {
+         background-image: url("../img/bg.jpg"); 
+          background-repeat:no-repeat;       
+        }
+
+        h1
+        {
+            color:rgb(184, 105, 68);
+            margin-bottom: 5px;
+            font-size:32px;
+        }
+        
+        label
+        {
+            font-size:20px;
+            margin: 10px 10px 10px 30px;
+        }
+
+        form
+        {
+            border: 2px solid;
+            padding: 10px 10px 10px 15px;
+            margin-top: 10px 0 0 10px;
+            background-color: rgb(250, 248, 248) ;
+        }
+
+        input
+        {
+            width: 150px;
+            height: 35px;
+            margin: 10px 10px 10px 30px;
+            font-size: 14px;
+        }
+
+        img
+        {
+            box-shadow: 12px 12px 12px rgb(141, 139, 139);  
+            margin: 15px 5px 5px 47px;
+            width:180px;
+            height:140px;
+        } 
+
+        img:hover
+        {
+            box-shadow: 12px 12px 12px sienna;            
+        }
+
+        footer
+        {
+            color:sienna;
+            margin: 90px;
+            text-align:center;
+            font-size: 16px;
+        }
+
+        div
+        {
+            margin-top:10px;
+            border:2px solid rgb(112, 111, 111);
+            padding: 10px 10px 10px 10px;
+            background-color:  rgb(250, 249, 248) ;
+        }
+
+        h2
+        {
+            color:rgb(112, 111, 111);
+            margin: 10px 30px 0 30px;
+        }
+
+        a
+        {
+            margin:10px 70px 10px 70px;
+            font-size:23px;
+            color:rgb(112, 111, 111);
+            font-weight: bolder;
+        }
+        
+        a:hover
+        {
+            color:rgb(184, 105, 68);
+        }
+        
+        .recordManage
+        {
+            color:royalblue;
+        }
+
+        .rightLink
+        {
+            float:right; 
+        }
+
+        p
+        {
+            font-size:22px;
+            color:rgb(63, 63, 63);
+        }
+
+        table
+        {
+            color:rgb(119, 118, 118);
+            text-align: center;
+            width:100%;    
+            font-size:17px; 
+            border:1px solid black ; 
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;     
+        }
+
+        th
+        {
+            font-size: 19px;
+            color:rgb(48, 98, 139);         
+        } 
+
+        td
+        {
+            border-top:1px solid black ; 
+        }
+
+        tr:nth-child(odd)
+        {
+            background-color: rgb(250, 248, 248);
+        }
+        #readBtn,  #stopBtn
+        {
+            float:right;
+            margin:11px 5px 0 0;
+            background-color: bisque;
+        }
+
+        .classQue
+        {
+            color:rgb(48, 98, 139);
+        }
+
+        
+        
+       
